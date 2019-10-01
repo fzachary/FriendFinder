@@ -1,4 +1,4 @@
-import { builtinModules } from "module";
+// import { builtinModules } from "module";
 
 var friends = [
     {

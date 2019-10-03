@@ -1,19 +1,19 @@
-# FriendFinder
+# Friend Finder
 A dating application that matches people based on personality
 
 ___
 
 ## Overview
-This is a dynamic web application using front end and back end technologies that matches the user with the most compatible friend based on their responses to a personality assessment.
+Friend Finder is a dynamic web application using front end and back end technologies that matches the user with the most compatible friend based on their responses to a personality assessment.
 
 ___
 
 ## Demo
-To run FriendFinder, navigate to the deployed [Heroku](#) page. First, you are required to input your name and a link to a photo of yourself. Then proceed to answer the questions in the personality assessment. Each question is rated on a scale of 1 to 5, with 1 meaning "Strongly Disagree" and 5 meaning "Strongly Agree". Once you have answered all of the questions, click on the submit button. The application will analyze your responses to the assessment, and will then display a modal featuring the person with which you most closely match.
+To run Friend Finder, navigate to the deployed [Heroku](#) page. First, you are required to input your name and a link to a photo of yourself. Then proceed to answer the questions in the personality assessment. Each question is rated on a scale of 1 to 5, with 1 meaning "Strongly Disagree" and 5 meaning "Strongly Agree". Once you have answered all of the questions, click on the submit button. The application will analyze your responses to the assessment, and will then display a modal featuring the person with which you most closely match.
 
 ___
 
-## Run FriendFinder Locally
+## Run Friend Finder Locally
 Follow the instructions below to install the application
 ```
 git clone git@github.com:fzachary/FriendFinder.git

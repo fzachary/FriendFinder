@@ -31,7 +31,7 @@ Afterwards, you will need to initialize the server using Node.js.
 node server.js
 ```
 
-The application will now be running locally on `PORT`. In this case, it will be running on PORT 8080. You will be able to access the application from your web browser at the URL [http://localhost:8080](http://localhost:8080).
+The application will now be running locally on your specified `PORT`. In this case, it will be running on PORT 8080. You will be able to access the application from your web browser at the URL [http://localhost:8080](http://localhost:8080).
 
 ___
 

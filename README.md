@@ -39,7 +39,7 @@ ___
 * HTML5
 * Bootstrap (CSS)
 * Javascript
-* NPM Packages
+* NPM Packages:
     - [Express](https://www.npmjs.com/package/express)
     - [Body Parser](https://www.npmjs.com/package/body-parser)
 

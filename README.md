@@ -4,7 +4,7 @@ A dynamic web application that matches people based on a personality assessment
 ___
 
 ## Overview
-This is a dynamic web application using front end and back end technologies that matches a user with the most compatible friend based on their responses to a personality assessment.
+This is a dynamic web application using front end and back end technologies that matches the user with the most compatible friend based on their responses to a personality assessment.
 
 ___
 

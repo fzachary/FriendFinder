@@ -9,7 +9,7 @@ Friend Finder is a dynamic web application using front end and back end technolo
 ___
 
 ## Demo
-To run Friend Finder, navigate to the deployed [Heroku](#) page. First, you are required to input your name and a link to a photo of yourself. Then proceed to answer the questions in the personality assessment. Each question is rated on a scale of 1 to 5, with 1 meaning "Strongly Disagree" and 5 meaning "Strongly Agree". Once you have answered all of the questions, click on the submit button. The application will analyze your responses to the assessment, and will then display a modal featuring the person with which you most closely match.
+To run Friend Finder, navigate to the deployed [Heroku](https://sleepy-thicket-25291.herokuapp.com) page. First, you are required to input your name and a link to a photo of yourself. Then proceed to answer the questions in the personality assessment. Each question is rated on a scale of 1 to 5, with 1 meaning "Strongly Disagree" and 5 meaning "Strongly Agree". Once you have answered all of the questions, click on the submit button. The application will analyze your responses to the assessment, and will then display a modal featuring the person with which you most closely match.
 
 ___
 

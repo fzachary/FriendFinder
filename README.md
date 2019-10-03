@@ -1,5 +1,5 @@
 # FriendFinder
-A dynamic web application that matches people based on a personality assessment
+A simple dating web application that matches people based on a personality assessment
 
 ___
 
